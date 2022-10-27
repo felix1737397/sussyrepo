@@ -1,0 +1,108 @@
+[14-Dec-2021 03:12:03 UTC] Message de débogage: edit.php
+[14-Dec-2021 03:12:03 UTC] Message de débogage: test
+[14-Dec-2021 03:14:03 UTC] Message de débogage: index.php
+[14-Dec-2021 03:14:03 UTC] Message de débogage: test
+[14-Dec-2021 03:14:08 UTC] Message de débogage: widgets.php
+[14-Dec-2021 03:14:08 UTC] Message de débogage: test
+[14-Dec-2021 03:14:18 UTC] Message de débogage: index.php
+[14-Dec-2021 03:14:18 UTC] Message de débogage: test
+[14-Dec-2021 03:14:25 UTC] PHP Notice:  Failed to ping google: 
+
+Bad Request
+
+
+Bad Request
+Error 400
+
+
+ in C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php on line 1914
+[14-Dec-2021 03:14:25 UTC] PHP Stack trace:
+[14-Dec-2021 03:14:25 UTC] PHP   1. {main}() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-cron.php:0
+[14-Dec-2021 03:14:25 UTC] PHP   2. do_action_ref_array() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-cron.php:138
+[14-Dec-2021 03:14:25 UTC] PHP   3. WP_Hook->do_action() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\plugin.php:518
+[14-Dec-2021 03:14:25 UTC] PHP   4. WP_Hook->apply_filters() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\class-wp-hook.php:327
+[14-Dec-2021 03:14:25 UTC] PHP   5. GoogleSitemapGeneratorLoader::CallSendPing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\class-wp-hook.php:303
+[14-Dec-2021 03:14:25 UTC] PHP   6. GoogleSitemapGenerator->SendPing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-loader.php:304
+[14-Dec-2021 03:14:25 UTC] PHP   7. GoogleSitemapGenerator->ExecutePing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php:1854
+[14-Dec-2021 03:14:25 UTC] PHP   8. trigger_error() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php:1914
+[14-Dec-2021 03:14:25 UTC] PHP Notice:  Failed to ping google: 
+
+Bad Request
+
+
+Bad Request
+Error 400
+
+
+ in C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php on line 1914
+[14-Dec-2021 03:14:25 UTC] PHP Stack trace:
+[14-Dec-2021 03:14:25 UTC] PHP   1. {main}() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-cron.php:0
+[14-Dec-2021 03:14:25 UTC] PHP   2. do_action_ref_array() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-cron.php:138
+[14-Dec-2021 03:14:25 UTC] PHP   3. WP_Hook->do_action() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\plugin.php:518
+[14-Dec-2021 03:14:25 UTC] PHP   4. WP_Hook->apply_filters() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\class-wp-hook.php:327
+[14-Dec-2021 03:14:25 UTC] PHP   5. GoogleSitemapGeneratorLoader::CallSendPing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\class-wp-hook.php:303
+[14-Dec-2021 03:14:25 UTC] PHP   6. GoogleSitemapGenerator->SendPing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-loader.php:304
+[14-Dec-2021 03:14:25 UTC] PHP   7. GoogleSitemapGenerator->ExecutePing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php:1866
+[14-Dec-2021 03:14:25 UTC] PHP   8. trigger_error() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php:1914
+[14-Dec-2021 03:14:26 UTC] Message de débogage: edit.php
+[14-Dec-2021 03:14:26 UTC] Message de débogage: test
+[14-Dec-2021 03:15:03 UTC] Message de débogage: edit.php
+[14-Dec-2021 03:15:03 UTC] Message de débogage: test
+[14-Dec-2021 03:15:12 UTC] Message de débogage: about.php
+[14-Dec-2021 03:15:12 UTC] Message de débogage: test
+[14-Dec-2021 03:15:15 UTC] Message de débogage: themes.php
+[14-Dec-2021 03:15:15 UTC] Message de débogage: test
+[14-Dec-2021 03:15:20 UTC] Message de débogage: widgets.php
+[14-Dec-2021 03:15:20 UTC] Message de débogage: test
+[14-Dec-2021 03:15:52 UTC] Message de débogage: themes.php
+[14-Dec-2021 03:15:52 UTC] Message de débogage: test
+[14-Dec-2021 03:15:57 UTC] Message de débogage: widgets.php
+[14-Dec-2021 03:15:57 UTC] Message de débogage: test
+[14-Dec-2021 03:16:21 UTC] Message de débogage: themes.php
+[14-Dec-2021 03:16:21 UTC] Message de débogage: test
+[14-Dec-2021 03:17:22 UTC] PHP Notice:  Failed to ping google: 
+
+Bad Request
+
+
+Bad Request
+Error 400
+
+
+ in C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php on line 1914
+[14-Dec-2021 03:17:22 UTC] PHP Stack trace:
+[14-Dec-2021 03:17:22 UTC] PHP   1. {main}() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-cron.php:0
+[14-Dec-2021 03:17:22 UTC] PHP   2. do_action_ref_array() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-cron.php:138
+[14-Dec-2021 03:17:22 UTC] PHP   3. WP_Hook->do_action() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\plugin.php:518
+[14-Dec-2021 03:17:22 UTC] PHP   4. WP_Hook->apply_filters() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\class-wp-hook.php:327
+[14-Dec-2021 03:17:22 UTC] PHP   5. GoogleSitemapGeneratorLoader::CallSendPing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\class-wp-hook.php:303
+[14-Dec-2021 03:17:22 UTC] PHP   6. GoogleSitemapGenerator->SendPing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-loader.php:304
+[14-Dec-2021 03:17:22 UTC] PHP   7. GoogleSitemapGenerator->ExecutePing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php:1854
+[14-Dec-2021 03:17:22 UTC] PHP   8. trigger_error() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php:1914
+[14-Dec-2021 03:17:23 UTC] PHP Notice:  Failed to ping google: 
+
+Bad Request
+
+
+Bad Request
+Error 400
+
+
+ in C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php on line 1914
+[14-Dec-2021 03:17:23 UTC] PHP Stack trace:
+[14-Dec-2021 03:17:23 UTC] PHP   1. {main}() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-cron.php:0
+[14-Dec-2021 03:17:23 UTC] PHP   2. do_action_ref_array() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-cron.php:138
+[14-Dec-2021 03:17:23 UTC] PHP   3. WP_Hook->do_action() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\plugin.php:518
+[14-Dec-2021 03:17:23 UTC] PHP   4. WP_Hook->apply_filters() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\class-wp-hook.php:327
+[14-Dec-2021 03:17:23 UTC] PHP   5. GoogleSitemapGeneratorLoader::CallSendPing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-includes\class-wp-hook.php:303
+[14-Dec-2021 03:17:23 UTC] PHP   6. GoogleSitemapGenerator->SendPing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-loader.php:304
+[14-Dec-2021 03:17:23 UTC] PHP   7. GoogleSitemapGenerator->ExecutePing() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php:1866
+[14-Dec-2021 03:17:23 UTC] PHP   8. trigger_error() C:\Program Files\Ampps\www\wordpress2021-michaudfelix\wp-content\plugins\google-sitemap-generator\sitemap-core.php:1914
+[14-Dec-2021 03:17:38 UTC] Message de débogage: themes.php
+[14-Dec-2021 03:17:38 UTC] Message de débogage: test
+[14-Dec-2021 03:17:58 UTC] Message de débogage: themes.php
+[14-Dec-2021 03:17:58 UTC] Message de débogage: test
+[14-Dec-2021 03:18:01 UTC] Message de débogage: widgets.php
+[14-Dec-2021 03:18:01 UTC] Message de débogage: test
+[14-Dec-2021 03:18:09 UTC] Message de débogage: themes.php
+[14-Dec-2021 03:18:09 UTC] Message de débogage: test

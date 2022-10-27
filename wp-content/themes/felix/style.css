@@ -1,0 +1,20 @@
+/** Theme Name: Felix
+ * Theme URI: https://en-ca.wordpress.org/themes/digital-books/
+ * Author: Felix
+ * Description: Thème enfant pour le site de Félix
+ *Text Domain: felix
+ * Version: kdf4
+ * Template: digital-books
+ */
+
+
+
+@import url("../digital-books/style.css");
+
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+.isa_success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+}
